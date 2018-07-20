@@ -5,4 +5,4 @@ A jupyter notebook containing a walkthrough of how gradient based adversarial at
 
 See how the jacobian-augmentation training technique helps a substitute model learn the same decision boundaries as the victim model. Technique discussed in this paper: https://arxiv.org/pdf/1602.02697.pdf
 
-![jacobian_augmentation](https://media.giphy.com/media/3sdHMA3Ibqu4F41WaB/giphy.gif)
+![jacobian_augmentation](https://github.com/adrian-botta/understanding_adversarial_examples/blob/master/photos/20180719_232707.gif?raw=true)
